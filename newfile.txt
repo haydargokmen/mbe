@@ -1,1 +1,31 @@
 this is a new test file created from remote repo
+telstra servers:
+u1631447000627
+NETWORK CONNECTIONS
+vNIC 1 58.162.146.32  
+00:50:56:92:7e:0a
+Management connection
+vNIC 0
+10.84.80.180  
+00:50:56:92:7e:09
+
+Csd-test01
+u1631447000659
+58.162.146.187
+10.84.65.253
+Admin
+Pdntsp....
+
+
+csd-linux-01
+u1631447000623
+NETWORK CONNECTIONS
+vNIC 1
+58.162.142.237  
+00:50:56:92:6b:10
+Management connection
+vNIC 0
+10.84.66.118  
+00:50:56:92:6b:0f
+
+
