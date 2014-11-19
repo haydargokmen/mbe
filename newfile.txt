@@ -36,3 +36,6 @@ eth1      Link encap:Ethernet  HWaddr 00:50:56:92:28:95
           TX packets:4710007 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000
           RX bytes:3548447503 (3.3 GiB)  TX bytes:779515498 (743.4 MiB)
+
+
+there are 3 servers in telstra live
