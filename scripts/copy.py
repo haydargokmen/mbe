@@ -1,4 +1,4 @@
 import os
-filePath = "/foo/bar/baz.py"
-serverPath = "/blah/boo/boom.py"
-os.system("scp "+filePath+" user@myserver.com:"+serverPath)
+filePath = "/home/admin/mbe/scripts/copy.py"
+serverPath = "/data/backup/"
+os.system("scp "+filePath+" admin@58.162.142.237:"+serverPath)
