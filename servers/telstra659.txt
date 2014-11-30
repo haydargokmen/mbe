@@ -1,0 +1,29 @@
+[admin@u1631447000659 mbe]$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 00:50:56:92:28:96
+          inet addr:10.84.65.253  Bcast:10.84.65.255  Mask:255.255.254.0
+          inet6 addr: fe80::250:56ff:fe92:2896/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:50555299 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:47318 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:3773356020 (3.5 GiB)  TX bytes:4205762 (4.0 MiB)
+
+eth1      Link encap:Ethernet  HWaddr 00:50:56:92:28:95
+          inet addr:58.162.146.187  Bcast:58.162.147.255  Mask:255.255.254.0
+          inet6 addr: fe80::250:56ff:fe92:2895/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:51855487 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4710007 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:3548447503 (3.3 GiB)  TX bytes:779515498 (743.4 MiB)
+
+lo        Link encap:Local Loopback
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:17 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:17 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0
+          RX bytes:980 (980.0 b)  TX bytes:980 (980.0 b)
+this is the 3rd server
+
