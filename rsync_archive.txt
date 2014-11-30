@@ -1,4 +1,0 @@
-rsync -r mbe admin@58.162.142.237:/data
-#tar -zcvf mbedata.tgz *
-tar cvf backup-`date +%y-%m-%d`.tar mbe
-
