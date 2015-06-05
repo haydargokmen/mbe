@@ -1,5 +1,5 @@
-srcdir="/home/admin/mbe/"
-dstdir="/data/mbe/"
+srcdir="/data"
+dstdir="/data"
 d=$(date +%m%d%y)
 
 for srcfile in ${srcdir}/*
