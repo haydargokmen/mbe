@@ -6,3 +6,4 @@ tar cvf /tmp/velti-mig-logs-`date +%y-%m-%d`.tar /tmp/velti
 # "Finished Archiving"
 
 # Upload to S3 bucket Production
+#done 
